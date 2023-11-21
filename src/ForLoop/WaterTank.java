@@ -14,7 +14,7 @@ public class WaterTank {
 
 	void checkWaterTank() {
 
-		for (bucket = 0, waterTank = 0; waterTank <= 100; bucket += 10, waterTank += 10) {
+		for (bucket = 0, waterTank = 0; waterTank < 100; bucket += 10, waterTank += 10) {
 
 			System.out.println("Water in the tank \n " + waterTank);
 

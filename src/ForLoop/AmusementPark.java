@@ -11,7 +11,7 @@ public class AmusementPark {
 	
 	Scanner sc = new Scanner(System.in);
 
-	// made a function
+	// made a function9
 
 	void printAllowedPeople() {
 
